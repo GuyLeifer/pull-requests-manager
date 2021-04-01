@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Ranchers', cursive;
+}
+
+.topTitles {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 80%;
+}
+
+.topTitles h2 {
+  transition: 1s;
+}
+
+.topTitles h2:hover {
+  cursor: pointer;
+  transition: 2s;
+}
+
+.chosen {
+  color: rgb(244, 67, 54);
+  font-size: 200%;
+  text-decoration: underline;
+}

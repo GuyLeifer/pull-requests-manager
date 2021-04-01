@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+
+.label-title {
+    font-family: 'Ranchers', cursive;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.1em;
+    font-size: 1.5em;
+    -webkit-text-stroke: 0.8px black;
+}
+
+.label {
+    background-image: linear-gradient(to bottom right, rgb(244, 67, 54), rgb(255, 255, 255));
+    margin: 2% 1%;
+}

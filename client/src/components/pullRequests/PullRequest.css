@@ -1,0 +1,14 @@
+.pull-request {
+    /* max-width: 50%; */
+    margin: 3% auto;
+}
+
+.top-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom-line {
+    display: flex;
+    justify-content: space-between;
+}

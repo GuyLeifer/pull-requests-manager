@@ -1,0 +1,20 @@
+.pull-requests {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.filter-menu {
+    display: flex;
+    justify-content: space-around;
+    margin: 2%;
+}
+
+.selectors {
+    display: flex;
+    justify-content: space-around;
+}
+
+.select {
+    width: 45%;
+    margin-bottom: 2%;
+}
